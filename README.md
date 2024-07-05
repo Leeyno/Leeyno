@@ -8,6 +8,5 @@ I'm doing my best!
 - 🔭 I’m currently working on a personal portfolio project.
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about arts and cats!
-- 📫 How to reach me: @ladyalty_ (Instagram)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love cats.
